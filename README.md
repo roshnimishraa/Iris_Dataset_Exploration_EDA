@@ -25,5 +25,5 @@ The dataset contains **150 samples** with the following features:
 3. NumPy
 4. Matplotlib
 5. Seaborn
-6. Jupyter Notebook
+6. Google Colab
 
